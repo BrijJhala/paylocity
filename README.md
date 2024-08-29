@@ -1,2 +1,2 @@
 # paylocity
-![paylocity](https://github.com/user-attachments/assets/5b9a37e6-a86e-40fd-9bca-84fe4a343c17)
+![paylocityv2](https://github.com/user-attachments/assets/63ffeb57-8214-445f-8ceb-b5106b25a63f)
